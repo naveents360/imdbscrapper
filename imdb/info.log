@@ -1,0 +1,155 @@
+INFO 2025-01-27 07:52:35,972 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:52:40,265 autoreload D:\Python projects\web scrapper\imdb\imdb\settings.py changed, reloading.
+INFO 2025-01-27 07:52:41,262 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:01,382 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:53:02,441 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:18,009 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:53:19,037 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:23,141 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:53:24,079 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:40,016 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:53:40,921 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:43,831 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:53:44,853 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:50,012 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:53:50,961 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:53:59,445 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:54:00,423 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:54:04,503 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:54:05,444 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:54:10,636 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:54:11,588 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:15,210 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:16,200 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:19,318 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:20,253 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:25,444 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:26,418 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:29,787 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:30,703 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:38,316 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:39,244 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:43,288 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:44,261 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:47,195 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:48,119 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:51,090 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:52,035 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:56:57,164 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:56:58,262 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:57:02,249 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:57:03,170 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:57:06,114 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:57:07,078 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:57:11,477 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:57:12,353 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:57:17,580 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:57:18,643 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:57:27,183 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:57:28,111 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:58:08,236 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:58:09,214 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:58:12,242 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:58:13,247 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:58:16,173 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:58:17,262 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:58:23,476 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:58:24,393 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:58:59,161 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:59:00,113 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:59:07,373 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:59:08,364 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:59:16,712 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:59:17,646 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:59:39,330 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:59:40,442 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:59:46,720 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:59:47,673 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:59:53,972 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 07:59:55,072 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 07:59:59,126 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:00,123 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:05,228 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:06,252 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:09,186 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:10,149 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:15,304 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:16,293 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:24,819 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:25,779 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:28,723 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:29,644 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:41,372 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:42,370 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:45,363 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:46,323 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:00:56,944 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:00:57,875 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:01:07,528 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:01:08,480 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:01:11,522 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:01:12,498 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:01:31,927 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:01:33,102 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:01:40,370 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:01:41,297 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:02:13,752 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:02:14,748 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:02:17,990 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:02:18,908 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:02:29,510 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:02:30,524 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:04,005 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:04,945 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:07,806 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:08,735 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:17,211 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:18,148 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:23,348 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:24,364 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:31,663 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:32,605 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:44,197 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:45,093 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:03:53,571 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:03:54,584 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:04:09,708 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:04:10,613 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:04:13,471 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:04:14,379 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:04:21,842 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:04:22,797 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:04:31,278 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:04:32,188 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:04:37,370 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:04:38,289 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:04:44,486 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:04:45,420 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:05:21,240 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:05:22,165 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:05:25,267 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:05:26,256 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:05:35,349 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:05:36,658 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:05:44,229 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:05:45,129 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:05:51,271 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:05:52,381 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:05:56,616 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:05:57,579 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:06:10,963 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:06:11,952 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:06:14,992 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:06:15,944 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:07:41,895 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:07:43,069 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:07:54,146 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:07:55,236 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:08:03,819 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:08:04,791 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:08:11,128 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:08:12,132 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:08:18,699 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:08:19,603 autoreload Watching for file changes with StatReloader
+INFO 2025-01-27 08:08:24,715 autoreload D:\Python projects\web scrapper\imdb\movies\views.py changed, reloading.
+INFO 2025-01-27 08:08:25,625 autoreload Watching for file changes with StatReloader
